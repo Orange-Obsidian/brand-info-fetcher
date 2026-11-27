@@ -1,0 +1,9 @@
+{
+    "id": "brand-info-fetcher",
+    "name": "Brand Info Fetcher",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "매장명 입력 시 Google Places API로 영업시간, 휴무일, 위치를 자동으로 프론트매터에 입력합니다.",
+    "author": "Orange",
+    "isDesktopOnly": true
+}
